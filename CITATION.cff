@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Römer
+    given-names: Johann
+    affiliation: "MOR Research Collective"
+title: "adaptation-resilience-utac"
+version: "1.0.0"
+date-released: "2026-08-02"
+url: "https://github.com/GenesisAeon/adaptation-resilience-utac"
+repository-code: "https://github.com/GenesisAeon/adaptation-resilience-utac"
+license: MIT
+abstract: "Real climate adaptation cost-benefit science (Reguero 2018, Global Commission on Adaptation 2019) -- deliberately no UTAC/CREP/AFET bridge. GenesisAeon P95."
+keywords:
+  - GenesisAeon
+  - P95
+  - climate
+  - adaptation
+  - resilience
+  - cost-benefit
+  - open-science
+references:
+  - type: article
+    title: "Comparing the cost effectiveness of nature-based and coastal adaptation: A case study from the Gulf Coast of the United States"
+    authors:
+      - name: "Reguero, B.G."
+      - name: "Beck, M.W."
+      - name: "Bresch, D.N."
+    year: 2018
+    journal: "PLOS ONE"
+    volume: 13
+    issue: 4
+  - type: report
+    title: "Adapt Now: A Global Call for Leadership on Climate Resilience"
+    authors:
+      - name: "Global Commission on Adaptation"
+    year: 2019
