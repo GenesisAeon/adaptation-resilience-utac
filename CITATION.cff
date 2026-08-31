@@ -6,8 +6,8 @@ authors:
     given-names: Johann
     affiliation: "MOR Research Collective"
 title: "adaptation-resilience-utac"
-version: "1.0.0"
-date-released: "2026-08-02"
+version: "1.0.1"
+date-released: "2026-08-31"
 url: "https://github.com/GenesisAeon/adaptation-resilience-utac"
 repository-code: "https://github.com/GenesisAeon/adaptation-resilience-utac"
 license: MIT

@@ -1,6 +1,6 @@
 [project]
 name = "adaptation-resilience-utac"
-version = "1.0.0"
+version = "1.0.1"
 description = "Real climate adaptation cost-benefit science (Reguero 2018, Global Commission on Adaptation 2019) -- countermeasure modeling, no UTAC/CREP bridge"
 readme = "README.md"
 license = { text = "MIT" }

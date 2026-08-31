@@ -29,7 +29,7 @@ from .cost_benefit import (
     nature_based_share_of_preventable_losses,
 )
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 __all__ = [
     "ADAPTATION_RESILIENCE_NOTE",

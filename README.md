@@ -10,6 +10,9 @@ GenesisAeon Package 95 — real climate adaptation cost-benefit science.
 **Deliberately has no UTAC/CREP/AFET bridge** — see
 [DISCLAIMER.md](DISCLAIMER.md).
 
+For a plain-language explanation of the same topic (German, no jargon,
+written for general audiences), see [WHITEPAPER.md](WHITEPAPER.md).
+
 ## What's real here
 
 - Reguero et al. (2018, *PLOS ONE*): Gulf Coast nature-based adaptation
